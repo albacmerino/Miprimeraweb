@@ -2,15 +2,8 @@
 
 cat << EOF
 
-echo "<!DOCTYPE html>
-<html lang='es'>
-    <head>
-        <meta charset='UTF-8'>
-        <title>Índice</title>
-    </head>
-    
-    <footer>
+echo "<footer>
         <p>Web Alba Carrobles Merino</p>
-    </footer>
+      </footer>
 </html>"
 EOF
